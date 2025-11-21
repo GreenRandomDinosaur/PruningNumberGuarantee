@@ -10,3 +10,7 @@ The results in Section 6 were generated using the code in the "min_prac" directo
 
 Each directory contains .sh files.  
 Some of them are used to obtain statistics, while others are for plotting the results.
+
+Our implementation is based on the implementation of Wang et al. [1]. We thank the authors for making their code publicly available.
+
+[1] Wang, Chaoqi, Guodong Zhang, and Roger Grosse. "Picking Winning Tickets Before Training by Preserving Gradient Flow." International Conference on Learning Representations.
